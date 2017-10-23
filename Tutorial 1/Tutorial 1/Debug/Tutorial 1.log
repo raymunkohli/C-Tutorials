@@ -1,0 +1,4 @@
+﻿  Tutorial1.cpp
+c:\users\raymu\documents\c++\tutorial 1\tutorial 1\tutorial1.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tutorial 1.vcxproj -> C:\Users\raymu\Documents\C++\Tutorial 1\Debug\Tutorial 1.exe
+  Tutorial 1.vcxproj -> C:\Users\raymu\Documents\C++\Tutorial 1\Debug\Tutorial 1.pdb (Partial PDB)
